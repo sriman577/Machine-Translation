@@ -1,0 +1,4 @@
+x	nos fruits le plus aimé est la pomme , mais son plus aimé est la pêche .
+x	la france est généralement beau en juillet , et il est généralement occupé en hiver .
+x	il déteste les pommes , les bananes et les citrons verts .
+x	chine est jamais le gel au mois d' août , et il est jamais sec en novembre .
